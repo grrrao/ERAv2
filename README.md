@@ -4,13 +4,13 @@
 
 This file contains to core NN model running the convolutions:
 * block 7: the structure of the neural network. 
-* block 9: Train the model, run prediction, loss, and backpropagation, and  test to check loss values. 
 
 
 
 ## Utils.py file
 
-Just one code block here:
+Two code blocks here:
+* block 9: Train the model, run prediction, loss, and backpropagation, and  test to check loss values. 
 * block 11: plot the loss and accuracy values for training and testing. 
 
 
